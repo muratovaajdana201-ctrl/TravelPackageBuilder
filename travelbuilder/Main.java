@@ -37,7 +37,7 @@ public class Main {
         System.out.println("BUDGET TRIP");
         System.out.println(budgetTrip);
         System.out.println();
-        System.out.println("VALIDATION TEST");
+        System.out.println("VALIDATION TEST - INVALID DESTINATION");
 
         try {
             TravelPackageObjectBuilder invalidBuilder =
